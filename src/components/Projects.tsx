@@ -1,6 +1,6 @@
 import React from 'react';
 import { motion } from 'framer-motion';
-import { FiGithub, FiExternalLink, FiCpu, FiTrendingUp, FiActivity, FiLayers, FiPlay, FiServer, FiDatabase } from 'react-icons/fi';
+import { FiGithub, FiExternalLink, FiCpu, FiTrendingUp, FiActivity, FiPlay } from 'react-icons/fi';
 
 const flagshipProjects = [
   {
