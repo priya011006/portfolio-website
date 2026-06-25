@@ -3,8 +3,8 @@ import { motion } from 'framer-motion';
 import { FiDownload, FiExternalLink, FiEye } from 'react-icons/fi';
 
 export const Resume: React.FC = () => {
-  const resumeUrl = 'https://drive.google.com/file/d/1nfc0GzCF0qdx2mqrroq90N1LXMExnXnU/view?usp=sharing';
-  const previewUrl = 'https://drive.google.com/file/d/1nfc0GzCF0qdx2mqrroq90N1LXMExnXnU/preview';
+  const resumeUrl = 'https://drive.google.com/file/d/1Y9z881XO52CY5B2pK66qwlq-yDH3Xkd3/view?usp=sharing';
+  const previewUrl = 'https://drive.google.com/file/d/1Y9z881XO52CY5B2pK66qwlq-yDH3Xkd3/preview';
 
   return (
     <section id="resume" className="py-24 relative overflow-hidden px-4 md:px-8">
